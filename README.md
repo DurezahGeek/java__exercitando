@@ -4,7 +4,7 @@ Este repositório contém vários programas Java que demonstram o uso de estrutu
 
 | Arquivo                          | Descrição                                           |
 |----------------------------------|-----------------------------------------------------|
-| `EstruturasExcepcionais.java`    | Exemplos de tratamento de exceções em Java.        |
+| [EstruturasExcepcionais]    | Exemplos de tratamento de exceções em Java.        |
 | `EstruturasCondicionais.java`    | Demonstração de estruturas condicionais em Java.   |
 | `TerminalArgumentos.java`        | Uso de argumentos do terminal em programas Java.   |
 | `TiposVariaveis.java`            | Demonstração de tipos de variáveis em Java.        |
