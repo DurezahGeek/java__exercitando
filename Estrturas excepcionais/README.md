@@ -1,18 +1,20 @@
-## Getting Started
+# Exemplos de Programas Java com Tratamento de Exceções
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém vários programas Java que demonstram o uso de tratamento de exceções em diferentes cenários. Abaixo estão os programas incluídos e uma breve descrição de cada um:
 
-## Folder Structure
+## `AboutMe.java`
 
-The workspace contains two folders by default, where:
+Este programa permite ao usuário inserir seu nome, sobrenome, idade e altura. Ele utiliza a classe `Scanner` para ler os valores digitados pelo usuário e trata exceções usando um bloco `try-catch` para lidar com entradas inválidas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## `ExemploExcecao.java`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Neste exemplo, é demonstrado o tratamento de exceção ao tentar converter uma string que não pode ser analisada em um número. Ele usa a classe `NumberFormat` para tentar fazer a conversão e captura a exceção `ParseException`.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## `FormatadorCepExemplo.java`
 
-## Dependency Management
+Neste exemplo, é demonstrado o tratamento de exceção personalizada ao tentar formatar um CEP. Se o CEP não tiver o tamanho correto, ele lança uma exceção `CepInvalidoException`. Caso contrário, formata o CEP e o exibe.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Sinta-se à vontade para explorar e executar esses programas para entender melhor como o tratamento de exceções funciona em Java e como ele pode ser aplicado em diferentes situações. Você também pode usá-los como base para seus próprios programas ou estudos sobre tratamento de exceções em Java.
+
+Lembre-se de que o tratamento de exceções é uma prática importante para lidar com erros de maneira controlada em seus programas, melhorando sua robustez e confiabilidade.
+
