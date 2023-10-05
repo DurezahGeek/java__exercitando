@@ -1,18 +1,15 @@
-## Getting Started
+# AboutMe.java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém dois programas Java simples que permitem aos usuários inserir informações pessoais e exibi-las. Os programas são os seguintes:
 
-## Folder Structure
+## `AboutMe.java`
 
-The workspace contains two folders by default, where:
+Este programa permite ao usuário inserir seu nome, sobrenome, idade e altura e, em seguida, exibe essas informações na saída padrão. Ele utiliza a classe `Scanner` para ler os valores digitados pelo usuário a partir do terminal.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Como Usar:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Compile o programa `AboutMe.java`:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+```bash
+javac AboutMe.java
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
