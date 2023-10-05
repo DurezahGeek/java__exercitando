@@ -5,9 +5,9 @@ Este repositório contém vários programas Java que demonstram o uso de estrutu
 | Arquivo                          | Descrição                                           |
 |----------------------------------|-----------------------------------------------------|
 | [Estruturas excepcionais](https://github.com/DurezahGeek/java__exercitando/tree/main/Estrturas%20excepcionais)    | Exemplos de tratamento de exceções em Java.        |
-| [EstruturasCondicionais]    | Demonstração de estruturas condicionais em Java.   |
-| `TerminalArgumentos.java`        | Uso de argumentos do terminal em programas Java.   |
-| `TiposVariaveis.java`            | Demonstração de tipos de variáveis em Java.        |
+| [Estruturas Condicionais](https://github.com/DurezahGeek/java__exercitando/tree/main/Estruturas%20Condicionais)    | Demonstração de estruturas condicionais em Java.   |
+| [Terminal Argumentos](https://github.com/DurezahGeek/java__exercitando/tree/main/terminalArgumentos)        | Uso de argumentos do terminal em programas Java.   |
+| [Tipos Variaveis](https://github.com/DurezahGeek/java__exercitando/tree/main/TiposVariaveis)         | Demonstração de tipos de variáveis em Java.        |
 
 Sinta-se à vontade para explorar e executar esses programas para entender melhor como as estruturas de controle funcionam em Java. Você também pode usá-los como base para seus próprios programas ou estudos sobre esses conceitos em Java.
 
