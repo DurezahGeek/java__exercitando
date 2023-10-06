@@ -14,7 +14,4 @@ Neste exemplo, é demonstrado o tratamento de exceção ao tentar converter uma 
 
 Neste exemplo, é demonstrado o tratamento de exceção personalizada ao tentar formatar um CEP. Se o CEP não tiver o tamanho correto, ele lança uma exceção `CepInvalidoException`. Caso contrário, formata o CEP e o exibe.
 
-Sinta-se à vontade para explorar e executar esses programas para entender melhor como o tratamento de exceções funciona em Java e como ele pode ser aplicado em diferentes situações. Você também pode usá-los como base para seus próprios programas ou estudos sobre tratamento de exceções em Java.
-
-Lembre-se de que o tratamento de exceções é uma prática importante para lidar com erros de maneira controlada em seus programas, melhorando sua robustez e confiabilidade.
 
