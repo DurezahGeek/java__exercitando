@@ -30,5 +30,4 @@ Neste programa, o resultado escolar é determinado com base em uma única linha 
 
 Este programa solicita ao usuário que insira a sigla de tamanho de roupa ("P", "M" ou "G") e exibe o tamanho correspondente. É um exemplo de condicional if/else.
 
-Sinta-se à vontade para explorar e executar esses programas para entender melhor os conceitos de programação Java apresentados em cada um deles. Você também pode usá-los como base para criar seus próprios programas ou estudos.
 
